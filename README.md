@@ -21,9 +21,29 @@ Foi Utilizado o gitHub codespaces não é preciso instalar nada na sua máquina.
 - Node.js
   
 No terminal do Codespaces:
-- npm create vite@latest meu-app -- --template svelte
+- npm create vite@latest projeto-svelte -- --template svelte
 - cd projeto-svelte
 - npm install
+- npm run dev
+
+**Passo-a-Passo para o desenvolvimento**  
+
+Iniciei o processo pesquisando sobre o Svelte de forma geral. A maior parte dos materiais e estudos que encontrei era referente a versões 
+anteriores do Svelte 5, então recorri diretamente ao site oficial svelte.dev, onde li toda a documentação e acompanhei o tutorial 
+disponível. No YouTube, os vídeos encontrados também abordavam versões antigas ou projetos mais complexos com o SvelteKit.  
+
+
+Para dar início ao mini projeto, utilizei o Svelte Online Playground, disponível no próprio svelte.dev. Por se tratar de um ambiente 
+simples sem necessidade de instalação consegui desenvolver e concluir o projeto. O tema escolhido foi um sorteio de
+pessoas que se mostrou ideal para demonstrar os conceitos do Svelte de forma clara e objetiva.  
+
+
+Em seguida pesquisei no ChatGPT e no Gemini como configurar as dependências no GitHub Codespaces. Ambos recomendaram o uso do Vite, uma 
+ferramenta de build mais simples e adequada para projetos como o meu que envolvia apenas o Front-End. Utilizei IA também para identificar
+e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS padrão que vinha configurado por padrão na ferramenta.
+
+
+
 
 
 
