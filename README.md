@@ -31,7 +31,7 @@ No terminal do Codespaces:
 Iniciei o processo pesquisando sobre o Svelte de forma geral. A maior parte dos materiais e estudos que encontrei era referente a versões 
 anteriores do Svelte 5, então recorri diretamente ao site oficial svelte.dev, onde li toda a documentação e acompanhei o tutorial 
 disponível. No YouTube, os vídeos encontrados também abordavam versões antigas ou projetos mais complexos com o SvelteKit.  
-![Documentação Svelte]() 
+![Documentação Svelte](https://github.com/PedroD18/Seminario-mini-projeto/blob/35bb4a873e310adb73942fdefede072b097af154/Documenta%C3%A7%C3%A3o.png) 
 ![Tutorial Svelte]()
 
 Para dar início ao mini projeto, utilizei o Svelte Online Playground, disponível no próprio svelte.dev. Por se tratar de um ambiente 
