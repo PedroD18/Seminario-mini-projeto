@@ -41,7 +41,8 @@ pessoas que se mostrou ideal para demonstrar os conceitos do Svelte de forma cla
 
 Em seguida pesquisei no ChatGPT e no Gemini como configurar as dependências no GitHub Codespaces. Ambos recomendaram o uso do Vite, uma 
 ferramenta de build mais simples e adequada para projetos como o meu que envolvia apenas o Front-End. Utilizei IA também para identificar
-e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS padrão que vinha configurado por padrão na ferramenta.
+e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS padrão que vinha configurado por padrão na ferramenta.  
+Também usei para encontrar o erro no netlify de página não encontrada pois o app svelte estava numa subpasta dentro do repositório assim fiz então as configurações necessários e então funcionou normalmente.
 
 ![Projeto Codespace](https://github.com/PedroD18/Seminario-mini-projeto/blob/39ec93962868727b1f0bda99769968462444dc32/Projeto%20codespace.png)  
 
