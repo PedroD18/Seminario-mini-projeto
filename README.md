@@ -46,9 +46,5 @@ e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS
 ![Projeto Codespace](https://github.com/PedroD18/Seminario-mini-projeto/blob/39ec93962868727b1f0bda99769968462444dc32/Projeto%20codespace.png)  
 
 
-![Projeto Pronto]()
-
-
-
-
+![Projeto Pronto](https://github.com/PedroD18/Seminario-mini-projeto/blob/e2fb26656278f33c39984a2657cf6c7e0833163c/Projeto%20Pronto.png)
 
