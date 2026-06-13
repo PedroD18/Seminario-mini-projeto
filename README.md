@@ -43,7 +43,7 @@ Em seguida pesquisei no ChatGPT e no Gemini como configurar as dependências no 
 ferramenta de build mais simples e adequada para projetos como o meu que envolvia apenas o Front-End. Utilizei IA também para identificar
 e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS padrão que vinha configurado por padrão na ferramenta.
 
-![Projeto Codespace]()  
+![Projeto Codespace](https://github.com/PedroD18/Seminario-mini-projeto/blob/39ec93962868727b1f0bda99769968462444dc32/Projeto%20codespace.png)  
 
 
 ![Projeto Pronto]()
