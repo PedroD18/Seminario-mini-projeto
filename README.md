@@ -37,12 +37,15 @@ disponível. No YouTube, os vídeos encontrados também abordavam versões antig
 Para dar início ao mini projeto, utilizei o Svelte Online Playground, disponível no próprio svelte.dev. Por se tratar de um ambiente 
 simples sem necessidade de instalação consegui desenvolver e concluir o projeto. O tema escolhido foi um sorteio de
 pessoas que se mostrou ideal para demonstrar os conceitos do Svelte de forma clara e objetiva.  
-![Svelte Playground]()
+![Svelte Playground](https://github.com/PedroD18/Seminario-mini-projeto/blob/ef98a345944a37d61023928e0fd0cfe47a88ac24/Svelte%20Playground.png)
 
 Em seguida pesquisei no ChatGPT e no Gemini como configurar as dependências no GitHub Codespaces. Ambos recomendaram o uso do Vite, uma 
 ferramenta de build mais simples e adequada para projetos como o meu que envolvia apenas o Front-End. Utilizei IA também para identificar
 e corrigir um erro que estava ocorrendo na porta do Vite, além de ajustar o CSS padrão que vinha configurado por padrão na ferramenta.
-![Projeto Codespace]()
+
+![Projeto Codespace]()  
+
+
 ![Projeto Pronto]()
 
 
