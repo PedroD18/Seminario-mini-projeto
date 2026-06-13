@@ -32,7 +32,7 @@ Iniciei o processo pesquisando sobre o Svelte de forma geral. A maior parte dos 
 anteriores do Svelte 5, então recorri diretamente ao site oficial svelte.dev, onde li toda a documentação e acompanhei o tutorial 
 disponível. No YouTube, os vídeos encontrados também abordavam versões antigas ou projetos mais complexos com o SvelteKit.  
 ![Documentação Svelte](https://github.com/PedroD18/Seminario-mini-projeto/blob/35bb4a873e310adb73942fdefede072b097af154/Documenta%C3%A7%C3%A3o.png) 
-![Tutorial Svelte]()
+![Tutorial Svelte](https://github.com/PedroD18/Seminario-mini-projeto/blob/cca00426a02d5f716132d91e273a959fac1c34a7/Tutorial.png)
 
 Para dar início ao mini projeto, utilizei o Svelte Online Playground, disponível no próprio svelte.dev. Por se tratar de um ambiente 
 simples sem necessidade de instalação consegui desenvolver e concluir o projeto. O tema escolhido foi um sorteio de
