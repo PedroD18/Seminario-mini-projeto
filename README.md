@@ -1,4 +1,7 @@
 # Seminario-mini-projeto
+**Tema: Svelte**  
+**Integrantes: Emilly Tainá, Pedro Daniel, Ray Silva e João Pedro**
+
 
 **Descrição do objetivo**  
 
